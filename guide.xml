@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AZTECA CINEMA">
+    <display-name lang="es">AZTECA CINEMA</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/az_cinema-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CANAL 5">
+    <display-name lang="es">CANAL 5</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/5_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AZTECA 7">
+    <display-name lang="es">AZTECA 7</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200416004700 -0500" stop="20200416021400 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La trinchera</title>
+  </programme>
+  <programme start="20200416021400 -0500" stop="20200416043200 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La cabeza viviente</title>
+  </programme>
+  <programme start="20200416043200 -0500" stop="20200416060000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La trinchera</title>
+  </programme>
+  <programme start="20200416060000 -0500" stop="20200416063000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200416063000 -0500" stop="20200416080000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Horizontes de sangre</title>
+  </programme>
+  <programme start="20200416080000 -0500" stop="20200416093000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Río hondo</title>
+  </programme>
+  <programme start="20200416093000 -0500" stop="20200416100000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200416100000 -0500" stop="20200416113000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">El indio</title>
+  </programme>
+  <programme start="20200416113000 -0500" stop="20200416130000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Su Precio unos dólares</title>
+  </programme>
+  <programme start="20200416130000 -0500" stop="20200416133000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200416133000 -0500" stop="20200416150000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Son tus Perjúmenes Mujer</title>
+  </programme>
+  <programme start="20200416150000 -0500" stop="20200416163000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Viva Chihuahua</title>
+  </programme>
+  <programme start="20200416163000 -0500" stop="20200416170000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200416170000 -0500" stop="20200416183000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La marca del muerto</title>
+  </programme>
+  <programme start="20200416183000 -0500" stop="20200416200000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Napoleoncito</title>
+  </programme>
+  <programme start="20200416200000 -0500" stop="20200416203000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20200416203000 -0500" stop="20200416220000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Horizontes de sangre</title>
+  </programme>
+  <programme start="20200416220000 -0500" stop="20200416233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Río hondo</title>
+  </programme>
+  <programme start="20200416233000 -0500" stop="20200416233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">El indio</title>
+  </programme>
+  <programme start="20200416233000 -0500" stop="20200417010000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">El indio</title>
+  </programme>
+  <programme start="20200417010000 -0500" stop="20200417023000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Su Precio unos dólares</title>
+  </programme>
+  <programme start="20200417023000 -0500" stop="20200417040000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Horizontes de sangre</title>
+  </programme>
+  <programme start="20200417040000 -0500" stop="20200417063000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Su Precio unos dólares</title>
+  </programme>
+  <programme start="20200417063000 -0500" stop="20200417080000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Son tus Perjúmenes Mujer</title>
+  </programme>
+  <programme start="20200417080000 -0500" stop="20200417100000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Por querer a una mujer</title>
+  </programme>
+  <programme start="20200417100000 -0500" stop="20200417113000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La marca del muerto</title>
+  </programme>
+  <programme start="20200417113000 -0500" stop="20200417203000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Napoleoncito</title>
+  </programme>
+  <programme start="20200417203000 -0500" stop="20200417220000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Son tus Perjúmenes Mujer</title>
+  </programme>
+  <programme start="20200417220000 -0500" stop="20200417233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La Amante de la Mafia</title>
+  </programme>
+  <programme start="20200417233000 -0500" stop="20200417233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La marca del muerto</title>
+  </programme>
+  <programme start="20200417233000 -0500" stop="20200418010000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La marca del muerto</title>
+  </programme>
+  <programme start="20200418010000 -0500" stop="20200418023000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Napoleoncito</title>
+  </programme>
+  <programme start="20200418023000 -0500" stop="20200418040000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Son tus Perjúmenes Mujer</title>
+  </programme>
+  <programme start="20200418040000 -0500" stop="20200418063000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Napoleoncito</title>
+  </programme>
+  <programme start="20200418063000 -0500" stop="20200418080000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Duelo en las Montañas</title>
+  </programme>
+  <programme start="20200418080000 -0500" stop="20200418100000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La mujer que engañamos</title>
+  </programme>
+  <programme start="20200418100000 -0500" stop="20200418113000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La trinchera</title>
+  </programme>
+  <programme start="20200418113000 -0500" stop="20200418133000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">El Siete Leguas</title>
+  </programme>
+  <programme start="20200418133000 -0500" stop="20200418150000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La cabeza viviente</title>
+  </programme>
+  <programme start="20200418150000 -0500" stop="20200418170000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La gran aventura del zorro</title>
+  </programme>
+  <programme start="20200418170000 -0500" stop="20200418183000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Viva Chihuahua</title>
+  </programme>
+  <programme start="20200418183000 -0500" stop="20200418203000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Por Ellas Aunque Mal Paguen</title>
+  </programme>
+  <programme start="20200418203000 -0500" stop="20200418220000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Me ha besado un hombre</title>
+  </programme>
+  <programme start="20200418220000 -0500" stop="20200418233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Cuando habla el corazón</title>
+  </programme>
+  <programme start="20200418233000 -0500" stop="20200418233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Su Precio unos dólares</title>
+  </programme>
+  <programme start="20200418233000 -0500" stop="20200419010000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Su Precio unos dólares</title>
+  </programme>
+  <programme start="20200419010000 -0500" stop="20200419023000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La mujer que engañamos</title>
+  </programme>
+  <programme start="20200419023000 -0500" stop="20200419040000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La trinchera</title>
+  </programme>
+  <programme start="20200419040000 -0500" stop="20200419063000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">El Siete Leguas</title>
+  </programme>
+  <programme start="20200419063000 -0500" stop="20200419080000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Por Ellas Aunque Mal Paguen</title>
+  </programme>
+  <programme start="20200419080000 -0500" stop="20200419100000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Horizontes de sangre</title>
+  </programme>
+  <programme start="20200419100000 -0500" stop="20200419113000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Son tus Perjúmenes Mujer</title>
+  </programme>
+  <programme start="20200419113000 -0500" stop="20200419133000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Por querer a una mujer</title>
+  </programme>
+  <programme start="20200419133000 -0500" stop="20200419150000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La marca del muerto</title>
+  </programme>
+  <programme start="20200419150000 -0500" stop="20200419170000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Napoleoncito</title>
+  </programme>
+  <programme start="20200419170000 -0500" stop="20200419183000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">El gavilán pollero</title>
+  </programme>
+  <programme start="20200419183000 -0500" stop="20200419203000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">El indio</title>
+  </programme>
+  <programme start="20200419203000 -0500" stop="20200419233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Río hondo</title>
+  </programme>
+  <programme start="20200419233000 -0500" stop="20200419233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Por Ellas Aunque Mal Paguen</title>
+  </programme>
+  <programme start="20200419233000 -0500" stop="20200420010000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Por Ellas Aunque Mal Paguen</title>
+  </programme>
+  <programme start="20200420010000 -0500" stop="20200420040000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Son tus Perjúmenes Mujer</title>
+  </programme>
+  <programme start="20200420040000 -0500" stop="20200420063000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Por querer a una mujer</title>
+  </programme>
+  <programme start="20200420063000 -0500" stop="20200420080000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Águila o Sol</title>
+  </programme>
+  <programme start="20200420080000 -0500" stop="20200420100000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Si volvieras a mi</title>
+  </programme>
+  <programme start="20200420100000 -0500" stop="20200420113000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">¡Así es mi Tierra</title>
+  </programme>
+  <programme start="20200420113000 -0500" stop="20200420133000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Alma de acero</title>
+  </programme>
+  <programme start="20200420133000 -0500" stop="20200420150000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Esposa o amante</title>
+  </programme>
+  <programme start="20200420150000 -0500" stop="20200420170000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La Hermana Blanca</title>
+  </programme>
+  <programme start="20200420170000 -0500" stop="20200420183000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Para Siempre Amor Mío</title>
+  </programme>
+  <programme start="20200420183000 -0500" stop="20200420203000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Deseada</title>
+  </programme>
+  <programme start="20200420203000 -0500" stop="20200420220000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Águila o Sol</title>
+  </programme>
+  <programme start="20200420220000 -0500" stop="20200420233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Si volvieras a mi</title>
+  </programme>
+  <programme start="20200420233000 -0500" stop="20200420233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">¡Así es mi Tierra</title>
+  </programme>
+  <programme start="20200420233000 -0500" stop="20200421010000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">¡Así es mi Tierra</title>
+  </programme>
+  <programme start="20200421010000 -0500" stop="20200421023000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Alma de acero</title>
+  </programme>
+  <programme start="20200421023000 -0500" stop="20200421040000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Águila o Sol</title>
+  </programme>
+  <programme start="20200421040000 -0500" stop="20200421063000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Alma de acero</title>
+  </programme>
+  <programme start="20200421063000 -0500" stop="20200421080000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Esposa o amante</title>
+  </programme>
+  <programme start="20200421080000 -0500" stop="20200421100000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La Hermana Blanca</title>
+  </programme>
+  <programme start="20200421100000 -0500" stop="20200421113000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Para Siempre Amor Mío</title>
+  </programme>
+  <programme start="20200421113000 -0500" stop="20200421133000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Deseada</title>
+  </programme>
+  <programme start="20200421133000 -0500" stop="20200421150000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Quiero Vivir Mi Vida</title>
+  </programme>
+  <programme start="20200421150000 -0500" stop="20200421170000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Las tres perfectas casadas</title>
+  </programme>
+  <programme start="20200421170000 -0500" stop="20200421183000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La amargura de mi raza</title>
+  </programme>
+  <programme start="20200421183000 -0500" stop="20200421203000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Me importa poco</title>
+  </programme>
+  <programme start="20200421203000 -0500" stop="20200421220000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Esposa o amante</title>
+  </programme>
+  <programme start="20200421220000 -0500" stop="20200421233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La Hermana Blanca</title>
+  </programme>
+  <programme start="20200421233000 -0500" stop="20200421233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Para Siempre Amor Mío</title>
+  </programme>
+  <programme start="20200421233000 -0500" stop="20200422010000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Para Siempre Amor Mío</title>
+  </programme>
+  <programme start="20200422010000 -0500" stop="20200422023000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Deseada</title>
+  </programme>
+  <programme start="20200422023000 -0500" stop="20200422040000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Esposa o amante</title>
+  </programme>
+  <programme start="20200422040000 -0500" stop="20200422063000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Deseada</title>
+  </programme>
+  <programme start="20200422063000 -0500" stop="20200422080000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Quiero Vivir Mi Vida</title>
+  </programme>
+  <programme start="20200422080000 -0500" stop="20200422100000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Las tres perfectas casadas</title>
+  </programme>
+  <programme start="20200422100000 -0500" stop="20200422113000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">La amargura de mi raza</title>
+  </programme>
+  <programme start="20200422113000 -0500" stop="20200422133000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Me importa poco</title>
+  </programme>
+  <programme start="20200422133000 -0500" stop="20200422150000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">A qué le tiras cuando sueñas, Mexicano</title>
+  </programme>
+  <programme start="20200422150000 -0500" stop="20200422170000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">El Padrino es mi Compadre</title>
+  </programme>
+  <programme start="20200422170000 -0500" stop="20200422183000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Cuando los hijos no vienen</title>
+  </programme>
+  <programme start="20200422183000 -0500" stop="20200422203000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Dos Gallos en Palenque</title>
+  </programme>
+  <programme start="20200422203000 -0500" stop="20200422220000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Quiero Vivir Mi Vida</title>
+  </programme>
+  <programme start="20200422220000 -0500" stop="20200422233000 -0500" channel="AZTECA CINEMA">
+    <title lang="es">Las tres perfectas casadas</title>
+  </programme>
+  <programme start="20200416003000 -0500" stop="20200416040000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200416040000 -0500" stop="20200416043000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200416043000 -0500" stop="20200416050000 -0500" channel="CANAL 5">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200416050000 -0500" stop="20200416063000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200416063000 -0500" stop="20200416070000 -0500" channel="CANAL 5">
+    <title lang="es">Masha y el oso</title>
+  </programme>
+  <programme start="20200416070000 -0500" stop="20200416071500 -0500" channel="CANAL 5">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20200416071500 -0500" stop="20200416073000 -0500" channel="CANAL 5">
+    <title lang="es">Bebés llorones</title>
+  </programme>
+  <programme start="20200416073000 -0500" stop="20200416080000 -0500" channel="CANAL 5">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20200416080000 -0500" stop="20200416083000 -0500" channel="CANAL 5">
+    <title lang="es">PJ Masks: Héroes en pijamas</title>
+  </programme>
+  <programme start="20200416083000 -0500" stop="20200416090000 -0500" channel="CANAL 5">
+    <title lang="es">Peppa pig</title>
+  </programme>
+  <programme start="20200416090000 -0500" stop="20200416093000 -0500" channel="CANAL 5">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20200416093000 -0500" stop="20200416100000 -0500" channel="CANAL 5">
+    <title lang="es">El Gato con Botas</title>
+  </programme>
+  <programme start="20200416100000 -0500" stop="20200416110000 -0500" channel="CANAL 5">
+    <title lang="es">Las Aventuras de Jimmy Neutron</title>
+  </programme>
+  <programme start="20200416110000 -0500" stop="20200416120000 -0500" channel="CANAL 5">
+    <title lang="es">Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20200416120000 -0500" stop="20200416130000 -0500" channel="CANAL 5">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20200416130000 -0500" stop="20200416140000 -0500" channel="CANAL 5">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20200416140000 -0500" stop="20200416160000 -0500" channel="CANAL 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200416160000 -0500" stop="20200416173000 -0500" channel="CANAL 5">
+    <title lang="es">Victorious</title>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
+    <credits>
+      <actor>Victoria Justice</actor>
+      <producer>Robin Weiner</producer>
+      <producer>Joe Catania</producer>
+      <composer>Michael Corcoran</composer>
+      <composer>Dr. Luke</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Juvenil</category>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
+  </programme>
+  <programme start="20200416173000 -0500" stop="20200416183000 -0500" channel="CANAL 5">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20200416183000 -0500" stop="20200416200000 -0500" channel="CANAL 5">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20200416200000 -0500" stop="20200416220000 -0500" channel="CANAL 5">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20200416220000 -0500" stop="20200416230000 -0500" channel="CANAL 5">
+    <title lang="es">La ley y el orden: UVE</title>
+  </programme>
+  <programme start="20200416230000 -0500" stop="20200417000000 -0500" channel="CANAL 5">
+    <title lang="es">Shades of Blue</title>
+    <title lang="xx">Shades of Blue</title>
+    <desc lang="es">Dos detectives sufren experiencias cercanas a la muerte reaccionando de manera diferente: Harlee intenta comenzar de cero y Matt trata de tomar venganza.(n)</desc>
+    <credits>
+      <actor>Jennifer Lopez</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Drea de Matteo</actor>
+      <actor>Warren Kole</actor>
+      <actor>Dayo Okeniyi</actor>
+      <actor>Hampton Fluker</actor>
+      <actor>Vincent Laresca</actor>
+      <actor>Sarah Jeffery</actor>
+      <producer>Priscilla Porianda</producer>
+      <producer>David DeClerque</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/shades_of_blue.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200417000000 -0500" stop="20200417010000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200417010000 -0500" stop="20200417020000 -0500" channel="CANAL 5">
+    <title lang="es">México Nuevo Siglo</title>
+  </programme>
+  <programme start="20200417020000 -0500" stop="20200417050000 -0500" channel="CANAL 5">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200417050000 -0500" stop="20200417053000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200417053000 -0500" stop="20200417063000 -0500" channel="CANAL 5">
+    <title lang="es">Soy sano</title>
+  </programme>
+  <programme start="20200417063000 -0500" stop="20200417070000 -0500" channel="CANAL 5">
+    <title lang="es">Masha y el oso</title>
+  </programme>
+  <programme start="20200417070000 -0500" stop="20200417071500 -0500" channel="CANAL 5">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20200417071500 -0500" stop="20200417073000 -0500" channel="CANAL 5">
+    <title lang="es">Bebés llorones</title>
+  </programme>
+  <programme start="20200417073000 -0500" stop="20200417080000 -0500" channel="CANAL 5">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20200417080000 -0500" stop="20200417083000 -0500" channel="CANAL 5">
+    <title lang="es">PJ Masks: Héroes en pijamas</title>
+  </programme>
+  <programme start="20200417083000 -0500" stop="20200417090000 -0500" channel="CANAL 5">
+    <title lang="es">Peppa pig</title>
+  </programme>
+  <programme start="20200417090000 -0500" stop="20200417093000 -0500" channel="CANAL 5">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20200417093000 -0500" stop="20200417100000 -0500" channel="CANAL 5">
+    <title lang="es">El Gato con Botas</title>
+  </programme>
+  <programme start="20200417100000 -0500" stop="20200417120000 -0500" channel="CANAL 5">
+    <title lang="es">Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20200417120000 -0500" stop="20200417130000 -0500" channel="CANAL 5">
+    <title lang="es">Bakugan</title>
+  </programme>
+  <programme start="20200417130000 -0500" stop="20200417140000 -0500" channel="CANAL 5">
+    <title lang="es">Yu-Gi-Oh</title>
+  </programme>
+  <programme start="20200417140000 -0500" stop="20200417150000 -0500" channel="CANAL 5">
+    <title lang="es">FC Juárez vs. Monarcas Morelia</title>
+  </programme>
+  <programme start="20200417150000 -0500" stop="20200417160000 -0500" channel="CANAL 5">
+    <title lang="es">Necaxa vs. Atlético San Luis</title>
+  </programme>
+  <programme start="20200417160000 -0500" stop="20200417181500 -0500" channel="CANAL 5">
+    <title lang="es">Lara Croft, Tomb Raider 2</title>
+  </programme>
+  <programme start="20200417181500 -0500" stop="20200417203000 -0500" channel="CANAL 5">
+    <title lang="es">Duro de Matar 2</title>
+  </programme>
+  <programme start="20200417203000 -0500" stop="20200417230000 -0500" channel="CANAL 5">
+    <title lang="es">Duro de matar</title>
+  </programme>
+  <programme start="20200417230000 -0500" stop="20200418000000 -0500" channel="CANAL 5">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.(n)</desc>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200418000000 -0500" stop="20200418013000 -0500" channel="CANAL 5">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200418013000 -0500" stop="20200418020000 -0500" channel="CANAL 5">
+    <title lang="es">Ingenes</title>
+  </programme>
+  <programme start="20200418020000 -0500" stop="20200418053000 -0500" channel="CANAL 5">
+    <title lang="es">Grimm</title>
+    <title lang="xx">Grimm</title>
+    <desc lang="es">Nick Burkhardt, un detective de homicidios de Portland, descubre que desciende de una línea de élite de perfiladores criminales conocidos como "Grimm".(n)</desc>
+    <credits>
+      <actor>David Giuntoli</actor>
+      <actor>Russell Hornsby</actor>
+      <actor>Bitsie Tulloch</actor>
+      <actor>Silas Weir Mitchell</actor>
+      <actor>Sasha Roiz</actor>
+      <actor>Reggie Lee</actor>
+      <actor>Bree Turner</actor>
+      <actor>Claire Coffee</actor>
+      <producer>Steve Oster</producer>
+      <producer>Lynn Kouf</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/grimm.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200418053000 -0500" stop="20200418060000 -0500" channel="CANAL 5">
+    <title lang="es">Soy sano</title>
+  </programme>
+  <programme start="20200418060000 -0500" stop="20200418070000 -0500" channel="CANAL 5">
+    <title lang="es">Los Caballeros del Zodiaco: La</title>
+  </programme>
+  <programme start="20200418070000 -0500" stop="20200418080000 -0500" channel="CANAL 5">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20200418080000 -0500" stop="20200418090000 -0500" channel="CANAL 5">
+    <title lang="es">Rugrats: Aventuras en Pañales</title>
+  </programme>
+  <programme start="20200418090000 -0500" stop="20200418093000 -0500" channel="CANAL 5">
+    <title lang="es">Ever After High</title>
+  </programme>
+  <programme start="20200418093000 -0500" stop="20200418110000 -0500" channel="CANAL 5">
+    <title lang="es">Historias de Everwilde</title>
+  </programme>
+  <programme start="20200418110000 -0500" stop="20200418113000 -0500" channel="CANAL 5">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20200418113000 -0500" stop="20200418131500 -0500" channel="CANAL 5">
+    <title lang="es">Barbie Dreamtopia</title>
+  </programme>
+  <programme start="20200418131500 -0500" stop="20200418151500 -0500" channel="CANAL 5">
+    <title lang="es">The Thundermans</title>
+  </programme>
+  <programme start="20200418151500 -0500" stop="20200418171500 -0500" channel="CANAL 5">
+    <title lang="es">La señal</title>
+  </programme>
+  <programme start="20200418171500 -0500" stop="20200418190000 -0500" channel="CANAL 5">
+    <title lang="es">Fuego cruzado</title>
+  </programme>
+  <programme start="20200418190000 -0500" stop="20200418204500 -0500" channel="CANAL 5">
+    <title lang="es">Patrulla</title>
+  </programme>
+  <programme start="20200418204500 -0500" stop="20200418224500 -0500" channel="CANAL 5">
+    <title lang="es">Soldado Universal</title>
+  </programme>
+  <programme start="20200418224500 -0500" stop="20200418224500 -0500" channel="CANAL 5">
+    <title lang="es">Brusco despertar</title>
+  </programme>
+  <programme start="20200418224500 -0500" stop="20200419003000 -0500" channel="CANAL 5">
+    <title lang="es">Brusco despertar</title>
+  </programme>
+  <programme start="20200419003000 -0500" stop="20200419010000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200419010000 -0500" stop="20200419013000 -0500" channel="CANAL 5">
+    <title lang="es">Ingenes</title>
+  </programme>
+  <programme start="20200419013000 -0500" stop="20200419020000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200419020000 -0500" stop="20200419033000 -0500" channel="CANAL 5">
+    <title lang="es">Grimm</title>
+    <title lang="xx">Grimm</title>
+    <desc lang="es">Nick Burkhardt, un detective de homicidios de Portland, descubre que desciende de una línea de élite de perfiladores criminales conocidos como "Grimm".(n)</desc>
+    <credits>
+      <actor>David Giuntoli</actor>
+      <actor>Russell Hornsby</actor>
+      <actor>Bitsie Tulloch</actor>
+      <actor>Silas Weir Mitchell</actor>
+      <actor>Sasha Roiz</actor>
+      <actor>Reggie Lee</actor>
+      <actor>Bree Turner</actor>
+      <actor>Claire Coffee</actor>
+      <producer>Steve Oster</producer>
+      <producer>Lynn Kouf</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/grimm.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200419033000 -0500" stop="20200419043000 -0500" channel="CANAL 5">
+    <title lang="es">Motivo</title>
+  </programme>
+  <programme start="20200419043000 -0500" stop="20200419050000 -0500" channel="CANAL 5">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200419050000 -0500" stop="20200419073000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200419073000 -0500" stop="20200419090000 -0500" channel="CANAL 5">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+  <programme start="20200419090000 -0500" stop="20200419093000 -0500" channel="CANAL 5">
+    <title lang="es">Harvey Beaks</title>
+  </programme>
+  <programme start="20200419093000 -0500" stop="20200419100000 -0500" channel="CANAL 5">
+    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
+  </programme>
+  <programme start="20200419100000 -0500" stop="20200419110000 -0500" channel="CANAL 5">
+    <title lang="es">School of Rock</title>
+  </programme>
+  <programme start="20200419110000 -0500" stop="20200419120000 -0500" channel="CANAL 5">
+    <title lang="es">Game shakers</title>
+  </programme>
+  <programme start="20200419120000 -0500" stop="20200419133000 -0500" channel="CANAL 5">
+    <title lang="es">Un vampiro mentiroso</title>
+  </programme>
+  <programme start="20200419133000 -0500" stop="20200419153000 -0500" channel="CANAL 5">
+    <title lang="es">El agente Cody Banks</title>
+  </programme>
+  <programme start="20200419153000 -0500" stop="20200419173000 -0500" channel="CANAL 5">
+    <title lang="es">Agente Cody Banks 2</title>
+  </programme>
+  <programme start="20200419173000 -0500" stop="20200419191500 -0500" channel="CANAL 5">
+    <title lang="es">Sin Escape</title>
+    <title lang="xx">No Escape</title>
+    <desc lang="es">Jack decide mudarse al suroeste de Asía con su familia, pero no saben que el país está por llegar a un conflicto armado, ahora deberán correr por sus vidas.(n)</desc>
+    <credits>
+      <actor>Owen Wilson</actor>
+      <actor>Pierce Brosnan</actor>
+      <actor>Lake Bell</actor>
+      <actor>Sterling Jerins</actor>
+      <actor>Claire Geare</actor>
+      <producer>Michel Litvak</producer>
+      <producer>Drew Dowdle</producer>
+      <composer>Marco Beltrami</composer>
+      <composer>Buck Sanders</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/sin_escape.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200419191500 -0500" stop="20200419220000 -0500" channel="CANAL 5">
+    <title lang="es">007: Operación Skyfall</title>
+  </programme>
+  <programme start="20200419220000 -0500" stop="20200420003000 -0500" channel="CANAL 5">
+    <title lang="es">Duro de matar 5</title>
+  </programme>
+  <programme start="20200420003000 -0500" stop="20200420050000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200420050000 -0500" stop="20200420100000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200420100000 -0500" stop="20200420110000 -0500" channel="CANAL 5">
+    <title lang="es">Las Aventuras de Jimmy Neutron</title>
+  </programme>
+  <programme start="20200420110000 -0500" stop="20200420120000 -0500" channel="CANAL 5">
+    <title lang="es">Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20200420120000 -0500" stop="20200420130000 -0500" channel="CANAL 5">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20200420130000 -0500" stop="20200420140000 -0500" channel="CANAL 5">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20200420140000 -0500" stop="20200420150000 -0500" channel="CANAL 5">
+    <title lang="es">Necaxa vs. Puebla</title>
+  </programme>
+  <programme start="20200420150000 -0500" stop="20200420160000 -0500" channel="CANAL 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200420160000 -0500" stop="20200420183000 -0500" channel="CANAL 5">
+    <title lang="es">Victorious</title>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
+    <credits>
+      <actor>Victoria Justice</actor>
+      <producer>Robin Weiner</producer>
+      <producer>Joe Catania</producer>
+      <composer>Michael Corcoran</composer>
+      <composer>Dr. Luke</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Juvenil</category>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
+  </programme>
+  <programme start="20200420183000 -0500" stop="20200420200000 -0500" channel="CANAL 5">
+    <title lang="es">El secreto de la última luna</title>
+  </programme>
+  <programme start="20200420200000 -0500" stop="20200420220000 -0500" channel="CANAL 5">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20200420220000 -0500" stop="20200420230000 -0500" channel="CANAL 5">
+    <title lang="es">La ley y el orden: UVE</title>
+  </programme>
+  <programme start="20200420230000 -0500" stop="20200421140000 -0500" channel="CANAL 5">
+    <title lang="es">Shades of Blue</title>
+    <title lang="xx">Shades of Blue</title>
+    <desc lang="es">Dos detectives sufren experiencias cercanas a la muerte reaccionando de manera diferente: Harlee intenta comenzar de cero y Matt trata de tomar venganza.(n)</desc>
+    <credits>
+      <actor>Jennifer Lopez</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Drea de Matteo</actor>
+      <actor>Warren Kole</actor>
+      <actor>Dayo Okeniyi</actor>
+      <actor>Hampton Fluker</actor>
+      <actor>Vincent Laresca</actor>
+      <actor>Sarah Jeffery</actor>
+      <producer>Priscilla Porianda</producer>
+      <producer>David DeClerque</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/shades_of_blue.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200421140000 -0500" stop="20200421150000 -0500" channel="CANAL 5">
+    <title lang="es">Monterrey vs. Querétaro</title>
+  </programme>
+  <programme start="20200421150000 -0500" stop="20200421160000 -0500" channel="CANAL 5">
+    <title lang="es">América vs. FC Juárez</title>
+  </programme>
+  <programme start="20200421160000 -0500" stop="20200421173000 -0500" channel="CANAL 5">
+    <title lang="es">Victorious</title>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
+    <credits>
+      <actor>Victoria Justice</actor>
+      <producer>Robin Weiner</producer>
+      <producer>Joe Catania</producer>
+      <composer>Michael Corcoran</composer>
+      <composer>Dr. Luke</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Juvenil</category>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
+  </programme>
+  <programme start="20200421173000 -0500" stop="20200421183000 -0500" channel="CANAL 5">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20200421183000 -0500" stop="20200422010000 -0500" channel="CANAL 5">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20200422010000 -0500" stop="20200422013000 -0500" channel="CANAL 5">
+    <title lang="es">Estatus</title>
+  </programme>
+  <programme start="20200422013000 -0500" stop="20200422140000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200422140000 -0500" stop="20200422150000 -0500" channel="CANAL 5">
+    <title lang="es">Pachuca vs. Tigres</title>
+    <desc lang="es">El Club de Fútbol Pachuca recibe a los Tigres de la UANL en el estadio Hidalgo en la ciudad de Pachuca, México.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/pachuca_vs_tigres.png" />
+  </programme>
+  <programme start="20200422150000 -0500" stop="20200422200000 -0500" channel="CANAL 5">
+    <title lang="es">Toluca vs. Cruz Azul</title>
+  </programme>
+  <programme start="20200416020000 -0500" stop="20200416040000 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200416040000 -0500" stop="20200416051500 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200416051500 -0500" stop="20200416053000 -0500" channel="AZTECA 7">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200416053000 -0500" stop="20200416063000 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200416063000 -0500" stop="20200416070000 -0500" channel="AZTECA 7">
+    <title lang="es">Gallinita Pintadita</title>
+  </programme>
+  <programme start="20200416070000 -0500" stop="20200416073000 -0500" channel="AZTECA 7">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20200416073000 -0500" stop="20200416080000 -0500" channel="AZTECA 7">
+    <title lang="es">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20200416080000 -0500" stop="20200416083000 -0500" channel="AZTECA 7">
+    <title lang="es">Bubu Dom</title>
+  </programme>
+  <programme start="20200416083000 -0500" stop="20200416090000 -0500" channel="AZTECA 7">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20200416090000 -0500" stop="20200416091500 -0500" channel="AZTECA 7">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20200416091500 -0500" stop="20200416093000 -0500" channel="AZTECA 7">
+    <title lang="es">Nivis: Amigos de otro mundo</title>
+  </programme>
+  <programme start="20200416093000 -0500" stop="20200416100000 -0500" channel="AZTECA 7">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20200416100000 -0500" stop="20200416103000 -0500" channel="AZTECA 7">
+    <title lang="es">Princesita Sofía</title>
+  </programme>
+  <programme start="20200416103000 -0500" stop="20200416110000 -0500" channel="AZTECA 7">
+    <title lang="es">Mickey:Aventuras sobre ruedas</title>
+  </programme>
+  <programme start="20200416110000 -0500" stop="20200416113000 -0500" channel="AZTECA 7">
+    <title lang="es">Larva</title>
+  </programme>
+  <programme start="20200416113000 -0500" stop="20200416124500 -0500" channel="AZTECA 7">
+    <title lang="es">La pandilla de la selva</title>
+  </programme>
+  <programme start="20200416124500 -0500" stop="20200416134500 -0500" channel="AZTECA 7">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200416134500 -0500" stop="20200416144500 -0500" channel="AZTECA 7">
+    <title lang="es">El increíble mundo de gumball</title>
+  </programme>
+  <programme start="20200416144500 -0500" stop="20200416154500 -0500" channel="AZTECA 7">
+    <title lang="es">Alvin y las ardillas</title>
+  </programme>
+  <programme start="20200416154500 -0500" stop="20200416171500 -0500" channel="AZTECA 7">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200416171500 -0500" stop="20200416180000 -0500" channel="AZTECA 7">
+    <title lang="es">American ninja warrior</title>
+  </programme>
+  <programme start="20200416180000 -0500" stop="20200416183000 -0500" channel="AZTECA 7">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
+  <programme start="20200416183000 -0500" stop="20200416193000 -0500" channel="AZTECA 7">
+    <title lang="es">Fail Army</title>
+  </programme>
+  <programme start="20200416193000 -0500" stop="20200416203000 -0500" channel="AZTECA 7">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+  </programme>
+  <programme start="20200416203000 -0500" stop="20200416223000 -0500" channel="AZTECA 7">
+    <title lang="es">La isla</title>
+  </programme>
+  <programme start="20200416223000 -0500" stop="20200416233000 -0500" channel="AZTECA 7">
+    <title lang="es">Hawaii 5-0</title>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más.(n)</desc>
+    <credits>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/hawaii_five-0.png" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200416233000 -0500" stop="20200416233000 -0500" channel="AZTECA 7">
+    <title lang="es">Are You the One? El Match</title>
+  </programme>
+  <programme start="20200416233000 -0500" stop="20200417001500 -0500" channel="AZTECA 7">
+    <title lang="es">Are You the One? El Match</title>
+  </programme>
+  <programme start="20200417001500 -0500" stop="20200417021500 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200417021500 -0500" stop="20200417041500 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200417041500 -0500" stop="20200417051500 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200417051500 -0500" stop="20200417053000 -0500" channel="AZTECA 7">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200417053000 -0500" stop="20200417063000 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200417063000 -0500" stop="20200417070000 -0500" channel="AZTECA 7">
+    <title lang="es">Gallinita Pintadita</title>
+  </programme>
+  <programme start="20200417070000 -0500" stop="20200417073000 -0500" channel="AZTECA 7">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20200417073000 -0500" stop="20200417080000 -0500" channel="AZTECA 7">
+    <title lang="es">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20200417080000 -0500" stop="20200417083000 -0500" channel="AZTECA 7">
+    <title lang="es">Vera y el Reino Arcoíris</title>
+  </programme>
+  <programme start="20200417083000 -0500" stop="20200417090000 -0500" channel="AZTECA 7">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20200417090000 -0500" stop="20200417091500 -0500" channel="AZTECA 7">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20200417091500 -0500" stop="20200417093000 -0500" channel="AZTECA 7">
+    <title lang="es">Nivis: Amigos de otro mundo</title>
+  </programme>
+  <programme start="20200417093000 -0500" stop="20200417100000 -0500" channel="AZTECA 7">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20200417100000 -0500" stop="20200417103000 -0500" channel="AZTECA 7">
+    <title lang="es">Princesita Sofía: El cielo no</title>
+  </programme>
+  <programme start="20200417103000 -0500" stop="20200417110000 -0500" channel="AZTECA 7">
+    <title lang="es">Mickey:Aventuras sobre ruedas</title>
+  </programme>
+  <programme start="20200417110000 -0500" stop="20200417113000 -0500" channel="AZTECA 7">
+    <title lang="es">Larva</title>
+  </programme>
+  <programme start="20200417113000 -0500" stop="20200417124500 -0500" channel="AZTECA 7">
+    <title lang="es">La pandilla de la selva</title>
+  </programme>
+  <programme start="20200417124500 -0500" stop="20200417134500 -0500" channel="AZTECA 7">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200417134500 -0500" stop="20200417150000 -0500" channel="AZTECA 7">
+    <title lang="es">El increíble mundo de gumball</title>
+  </programme>
+  <programme start="20200417150000 -0500" stop="20200417153000 -0500" channel="AZTECA 7">
+    <title lang="es">Clarence</title>
+  </programme>
+  <programme start="20200417153000 -0500" stop="20200417160000 -0500" channel="AZTECA 7">
+    <title lang="es">La casa embrujada</title>
+  </programme>
+  <programme start="20200417160000 -0500" stop="20200417163000 -0500" channel="AZTECA 7">
+    <title lang="es">Garage Customs</title>
+  </programme>
+  <programme start="20200417163000 -0500" stop="20200417194500 -0500" channel="AZTECA 7">
+    <title lang="es">Lucha Azteca AAA</title>
+  </programme>
+  <programme start="20200417194500 -0500" stop="20200417214500 -0500" channel="AZTECA 7">
+    <title lang="es">Ghost rider</title>
+  </programme>
+  <programme start="20200417214500 -0500" stop="20200417223000 -0500" channel="AZTECA 7">
+    <title lang="es">Tijuana vs. América</title>
+    <desc lang="es">El Club Tijuana recibe al Club de Fútbol América en el estadio Caliente, en la ciudad de Tijuana, Baja California, México.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/tijuana_vs_america.png" />
+  </programme>
+  <programme start="20200417223000 -0500" stop="20200417230000 -0500" channel="AZTECA 7">
+    <title lang="es">Puebla vs. Querétaro</title>
+  </programme>
+  <programme start="20200417230000 -0500" stop="20200417233000 -0500" channel="AZTECA 7">
+    <title lang="es">Especial Box Azteca</title>
+  </programme>
+  <programme start="20200417233000 -0500" stop="20200418000000 -0500" channel="AZTECA 7">
+    <title lang="es">WPT México</title>
+  </programme>
+  <programme start="20200418000000 -0500" stop="20200418003000 -0500" channel="AZTECA 7">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
+  <programme start="20200418003000 -0500" stop="20200418043000 -0500" channel="AZTECA 7">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200418043000 -0500" stop="20200418050000 -0500" channel="AZTECA 7">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200418050000 -0500" stop="20200418051500 -0500" channel="AZTECA 7">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200418051500 -0500" stop="20200418063000 -0500" channel="AZTECA 7">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20200418063000 -0500" stop="20200418073000 -0500" channel="AZTECA 7">
+    <title lang="es">Pirata y Capitano</title>
+  </programme>
+  <programme start="20200418073000 -0500" stop="20200418081500 -0500" channel="AZTECA 7">
+    <title lang="es">Club 57</title>
+  </programme>
+  <programme start="20200418081500 -0500" stop="20200418090000 -0500" channel="AZTECA 7">
+    <title lang="es">Bia</title>
+  </programme>
+  <programme start="20200418090000 -0500" stop="20200418093000 -0500" channel="AZTECA 7">
+    <title lang="es">Super Campeones</title>
+  </programme>
+  <programme start="20200418093000 -0500" stop="20200418100000 -0500" channel="AZTECA 7">
+    <title lang="es">Sailor Moon Crystal</title>
+  </programme>
+  <programme start="20200418100000 -0500" stop="20200418103000 -0500" channel="AZTECA 7">
+    <title lang="es">Ranma 1/2</title>
+  </programme>
+  <programme start="20200418103000 -0500" stop="20200418110000 -0500" channel="AZTECA 7">
+    <title lang="es">Ben 10</title>
+  </programme>
+  <programme start="20200418110000 -0500" stop="20200418113000 -0500" channel="AZTECA 7">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200418113000 -0500" stop="20200418120000 -0500" channel="AZTECA 7">
+    <title lang="es">Game Central</title>
+  </programme>
+  <programme start="20200418120000 -0500" stop="20200418121500 -0500" channel="AZTECA 7">
+    <title lang="es">Cortos Pixar</title>
+  </programme>
+  <programme start="20200418121500 -0500" stop="20200418143000 -0500" channel="AZTECA 7">
+    <title lang="es">El Buen Amigo Gigante</title>
+    <title lang="xx">The BFG</title>
+    <desc lang="es">Hay una chica en un orfanato llamada Sophia tiene fantasías con mundos mágicos pero una noche un gigante se le presenta y cambiará su vida.(n)</desc>
+    <credits>
+      <actor>Mark Rylance</actor>
+      <actor>Ruby Barnhill</actor>
+      <actor>Penelope Wilton</actor>
+      <actor>Jemaine Clement</actor>
+      <actor>Bill Hader</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Rafe Spall</actor>
+      <writer>The BFG de Roald Dahl</writer>
+      <producer>Steven Spielberg</producer>
+      <producer>Frank Marshall</producer>
+      <composer>John Williams</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_buen_amigo_gigante.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Reino Unido</country>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200418143000 -0500" stop="20200418163000 -0500" channel="AZTECA 7">
+    <title lang="es">Atlantis</title>
+  </programme>
+  <programme start="20200418163000 -0500" stop="20200418183000 -0500" channel="AZTECA 7">
+    <title lang="es">El planeta del tesoro</title>
+  </programme>
+  <programme start="20200418183000 -0500" stop="20200418204500 -0500" channel="AZTECA 7">
+    <title lang="es">Piratas del Caribe 2</title>
+    <desc lang="es">Jack debe pagar una deuda de sangre al temible fantasma de alta mar, Davy Jones soberano de las profundidades, involucrando viejas amistades en el camino.(n)</desc>
+    <credits>
+      <actor>Johnny Depp</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>Keira Knightley</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Jack Davenport</actor>
+      <actor>Stellan Skarsgard</actor>
+      <actor>Kevin McNally</actor>
+      <actor>Jonathan Pryce</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/piratas_del_caribe_el_cofre_de_la_muerte.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200418204500 -0500" stop="20200418230000 -0500" channel="AZTECA 7">
+    <title lang="es">Piratas del Caribe 4</title>
+    <desc lang="es">Jack se cruza con una mujer de pasado, no está seguro si es amor o si ella es una estafadora despiadada que lo usa para encontrar la Fuente de la Juventud.(n)</desc>
+    <credits>
+      <actor>Johnny Depp</actor>
+      <actor>Penélope Cruz</actor>
+      <actor>Ian McShane</actor>
+      <actor>Kevin R. McNally</actor>
+      <actor>Geoffrey Rush</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/piratas_del_caribe_navegando_en_aguas_misteriosas.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200418230000 -0500" stop="20200419003000 -0500" channel="AZTECA 7">
+    <title lang="es">Box Azteca</title>
+  </programme>
+  <programme start="20200419003000 -0500" stop="20200419004500 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200419004500 -0500" stop="20200419010000 -0500" channel="AZTECA 7">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20200419010000 -0500" stop="20200419050000 -0500" channel="AZTECA 7">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200419050000 -0500" stop="20200419051500 -0500" channel="AZTECA 7">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20200419051500 -0500" stop="20200419053000 -0500" channel="AZTECA 7">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20200419053000 -0500" stop="20200419060000 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200419060000 -0500" stop="20200419063000 -0500" channel="AZTECA 7">
+    <title lang="es">Aventuras en Pocketville</title>
+  </programme>
+  <programme start="20200419063000 -0500" stop="20200419073000 -0500" channel="AZTECA 7">
+    <title lang="es">El día que Henry conoció a</title>
+  </programme>
+  <programme start="20200419073000 -0500" stop="20200419080000 -0500" channel="AZTECA 7">
+    <title lang="es">Rainbow Ruby</title>
+  </programme>
+  <programme start="20200419080000 -0500" stop="20200419083000 -0500" channel="AZTECA 7">
+    <title lang="es">Bubu y las lechucitas</title>
+  </programme>
+  <programme start="20200419083000 -0500" stop="20200419090000 -0500" channel="AZTECA 7">
+    <title lang="es">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20200419090000 -0500" stop="20200419093000 -0500" channel="AZTECA 7">
+    <title lang="es">Las aventuras enredadas..</title>
+  </programme>
+  <programme start="20200419093000 -0500" stop="20200419100000 -0500" channel="AZTECA 7">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20200419100000 -0500" stop="20200419103000 -0500" channel="AZTECA 7">
+    <title lang="es">Tiny Ones Transport Service</title>
+  </programme>
+  <programme start="20200419103000 -0500" stop="20200419110000 -0500" channel="AZTECA 7">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20200419110000 -0500" stop="20200419113000 -0500" channel="AZTECA 7">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20200419113000 -0500" stop="20200419120000 -0500" channel="AZTECA 7">
+    <title lang="es">Plaza Sesamo</title>
+  </programme>
+  <programme start="20200419120000 -0500" stop="20200419133000 -0500" channel="AZTECA 7">
+    <title lang="es">Iron Man y Captain America</title>
+  </programme>
+  <programme start="20200419133000 -0500" stop="20200419153000 -0500" channel="AZTECA 7">
+    <title lang="es">Grandes Héroes</title>
+    <title lang="xx">Big Hero 6</title>
+    <desc lang="es">Un grupo de seis superhéroes son reclutados por el gobierno de la sofisticada y pacífica ciudad de San Fransokyo para proteger la nación del crimen.(n)</desc>
+    <credits>
+      <producer>Roy Conli</producer>
+      <composer>Henry Jackman</composer>
+    </credits>
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/6_grandes_heroes.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200419153000 -0500" stop="20200419173000 -0500" channel="AZTECA 7">
+    <title lang="es">WALL-E</title>
+    <title lang="xx">WALL·E</title>
+    <desc lang="es">Una robot que llega a la tierra se encuentra con WALL-E, un robot de limpieza, ella se percata que él tiene la clave para el regreso de la humanidad.(n)</desc>
+    <credits>
+      <actor>Ben Burtt</actor>
+      <actor>Elissa Knight</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Fred Willard</actor>
+      <actor>John Ratzenberger</actor>
+      <actor>Kathy Najimy</actor>
+      <actor>Sigourney Weaver</actor>
+      <producer>Jim Morris</producer>
+      <composer>Thomas Newman</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/wall·e.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200419173000 -0500" stop="20200419193000 -0500" channel="AZTECA 7">
+    <title lang="es">Monsters University</title>
+  </programme>
+  <programme start="20200419193000 -0500" stop="20200419213000 -0500" channel="AZTECA 7">
+    <title lang="es">Monsters Inc</title>
+  </programme>
+  <programme start="20200419213000 -0500" stop="20200419233000 -0500" channel="AZTECA 7">
+    <title lang="es">Piratas del caribe 5</title>
+  </programme>
+  <programme start="20200419233000 -0500" stop="20200419233000 -0500" channel="AZTECA 7">
+    <title lang="es">Piratas del caribe 5</title>
+  </programme>
+  <programme start="20200419233000 -0500" stop="20200420013000 -0500" channel="AZTECA 7">
+    <title lang="es">Piratas del caribe 5</title>
+  </programme>
+  <programme start="20200420013000 -0500" stop="20200420020000 -0500" channel="AZTECA 7">
+    <title lang="es">Piratas del caribe 5</title>
+  </programme>
+  <programme start="20200420020000 -0500" stop="20200420040000 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200420040000 -0500" stop="20200420093000 -0500" channel="AZTECA 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200420093000 -0500" stop="20200420100000 -0500" channel="AZTECA 7">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20200420100000 -0500" stop="20200420134500 -0500" channel="AZTECA 7">
+    <title lang="es">Princesita Sofía</title>
+  </programme>
+  <programme start="20200420134500 -0500" stop="20200420144500 -0500" channel="AZTECA 7">
+    <title lang="es">El increíble mundo de gumball</title>
+  </programme>
+  <programme start="20200420144500 -0500" stop="20200420154500 -0500" channel="AZTECA 7">
+    <title lang="es">Alvin y las ardillas</title>
+  </programme>
+  <programme start="20200420154500 -0500" stop="20200420171500 -0500" channel="AZTECA 7">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200420171500 -0500" stop="20200420180000 -0500" channel="AZTECA 7">
+    <title lang="es">American ninja warrior</title>
+  </programme>
+  <programme start="20200420180000 -0500" stop="20200420183000 -0500" channel="AZTECA 7">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
+  <programme start="20200420183000 -0500" stop="20200420193000 -0500" channel="AZTECA 7">
+    <title lang="es">Fail Army</title>
+  </programme>
+  <programme start="20200420193000 -0500" stop="20200420203000 -0500" channel="AZTECA 7">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+  </programme>
+  <programme start="20200420203000 -0500" stop="20200420223000 -0500" channel="AZTECA 7">
+    <title lang="es">La isla</title>
+  </programme>
+  <programme start="20200420223000 -0500" stop="20200421063000 -0500" channel="AZTECA 7">
+    <title lang="es">Hawaii 5-0</title>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más.(n)</desc>
+    <credits>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/hawaii_five-0.png" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200421063000 -0500" stop="20200421073000 -0500" channel="AZTECA 7">
+    <title lang="es">El Reino Infantil</title>
+  </programme>
+  <programme start="20200421073000 -0500" stop="20200421203000 -0500" channel="AZTECA 7">
+    <title lang="es">Octonautas</title>
+  </programme>
+  <programme start="20200421203000 -0500" stop="20200421233000 -0500" channel="AZTECA 7">
+    <title lang="es">La isla</title>
+  </programme>
+  <programme start="20200421233000 -0500" stop="20200422080000 -0500" channel="AZTECA 7">
+    <title lang="es">Are You the One? El Match</title>
+  </programme>
+  <programme start="20200422080000 -0500" stop="20200422110000 -0500" channel="AZTECA 7">
+    <title lang="es">Vera y el Reino Arcoíris</title>
+  </programme>
+</tv>
